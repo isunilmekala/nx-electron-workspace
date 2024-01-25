@@ -61,5 +61,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "angular-app"
+  "defaultProject": "dashboard"
 }
