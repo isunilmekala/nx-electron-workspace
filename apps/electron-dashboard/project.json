@@ -38,6 +38,7 @@
       "options": {
         "name": "electron-dashboard",
         "frontendProject": "dashboard",
+        "extraProjects": ["login"],
         "sourcePath": "dist/apps",
         "outputPath": "dist/packages",
         "prepackageOnly": true
@@ -48,6 +49,7 @@
       "options": {
         "name": "electron-dashboard",
         "frontendProject": "dashboard",
+        "extraProjects": ["login"],
         "sourcePath": "dist/apps",
         "outputPath": "dist/executables"
       }
